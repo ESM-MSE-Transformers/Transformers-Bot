@@ -1,0 +1,46 @@
+Bot,Environment,Health_Checkup,Damage,Rank,Leader_selected
+Earthbot,Earth,71,no,3,Leader
+Earthbot,Earth,91,Yes,1,Not Leader
+Earthbot,Earth,1,no,5,Not Leader
+Earthbot,Earth,62,no,3,Not Leader
+Earthbot,Earth,54,no,4,Not Leader
+Earthbot,Water,38,no,3,Not Leader
+Earthbot,Water,92,Yes,1,Not Leader
+Earthbot,Water,27,no,5,Not Leader
+Earthbot,Water,2,no,3,Not Leader
+Earthbot,Water,10,no,4,Not Leader
+Earthbot,Fire,88,no,3,Not Leader
+Earthbot,Fire,2,Yes,1,Not Leader
+Earthbot,Fire,42,no,5,Not Leader
+Earthbot,Fire,41,no,3,Not Leader
+Earthbot,Fire,39,no,4,Not Leader
+Waterbot,Earth,71,no,3,Not Leader
+Waterbot,Earth,91,Yes,1,Not Leader
+Waterbot,Earth,1,no,5,Not Leader
+Waterbot,Earth,62,no,3,Not Leader
+Waterbot,Earth,54,no,4,Not Leader
+Waterbot,Water,38,Yes,3,Not Leader
+Waterbot,Water,92,no,1,Leader
+Waterbot,Water,27,no,5,Not Leader
+Waterbot,Water,2,no,3,Not Leader
+Waterbot,Water,10,no,4,Not Leader
+Waterbot,Fire,88,no,3,Not Leader
+Waterbot,Fire,2,Yes,1,Not Leader
+Waterbot,Fire,42,no,5,Not Leader
+Waterbot,Fire,41,no,3,Not Leader
+Waterbot,Fire,39,no,4,Not Leader
+Firebot,Earth,71,no,3,Not Leader
+Firebot,Earth,91,Yes,1,Not Leader
+Firebot,Earth,1,no,5,Not Leader
+Firebot,Earth,62,no,3,Not Leader
+Firebot,Earth,54,no,4,Not Leader
+Firebot,Water,38,Yes,3,Not Leader
+Firebot,Water,92,no,1,Not Leader
+Firebot,Water,27,no,5,Not Leader
+Firebot,Water,2,no,3,Not Leader
+Firebot,Water,10,no,4,Not Leader
+Firebot,Fire,88,no,3,Leader
+Firebot,Fire,2,Yes,1,Not Leader
+Firebot,Fire,42,no,5,Not Leader
+Firebot,Fire,41,no,3,Not Leader
+Firebot,Fire,39,no,4,Not Leader
